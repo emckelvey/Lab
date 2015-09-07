@@ -1,0 +1,156 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+<link rel="stylesheet" type="text/css" href="styles.css"> 
+<title>Lab1</title>
+<style>
+
+</style>
+</head>
+<body>
+
+<div id="header">
+<h1>Ebony McKelvey</h1>
+</div>
+
+
+
+<h3>About Ebony M.</h3>
+
+<p>
+Ebony has been attending tri-c for 3 years. And this year would be
+known as the fourth year she has been committing herself as a student.
+Her goal is to graduate in the Spring of 2016. 
+</p>
+
+<p>
+Ebony has a passion for Development.
+After graduation, Her goal is to build an aspiring website that will strongly provide tutorials and references covering
+many aspects of web programming, including HTML, CSS, JavaScript,
+XML, SQL, PHP, ASP, etc.
+</p>
+
+<p>
+Ebony attends Cuyahoga Community College in Highland Hills, Ohio.
+Her ambition is Information Technology with a focus in Programming and Development.
+She has been studying for this field for almost 3 and a half years. Her favorite things
+about technology is the things that she can do with it; such as, mobile app development,
+web form application, coding, designing tables with Sql and much more.
+</p>
+
+
+
+
+<center>
+<border>
+<th><img src="C:\Users\EMcKelvey\Documents\Interactive Prog\About me\Bio.png" alt="" width="275" height="300" text="EBM" "float:right" >
+</border>
+</center>
+<center>
+<tr>
+<td>Name:</td>
+<td>E. McKelvey</td>
+
+</tr>
+<tr>
+<td>Birth:</td>
+<td>August 25, 1994</td>
+
+</tr>
+
+<tr>
+<td>Major:</td>
+<td>Programming</td>
+</tr>
+
+</th>
+</center>
+
+
+
+
+
+
+<h3>Recent Experience</h3>
+
+<p>
+From Recent Work experiences to Previous. Her first job/role was a deli team member at a store in Willoughby Hills,
+afterwards her second job was a cashier at a Pharmacy which she gained more experiences when working with people for almost 2
+and a half years. Now, she is a permanent web designer in her case she prefers to go by the name front-end developer. In which she 
+works for company by the name of TTL Systems which is located on the west side of Cleveland in Middleburg Heights, Ohio.
+She has been with this company for almost 4 months in which she has successfully completed
+a 3 month internship with TTL and received a permanent offer in the beginning of August
+2015. Her current job as a Developer is to make all web applications look
+beautiful and pretty.
+</p>
+
+<h3>Future Goals</h3>
+<p>This table below will conduct information upon goals she wishes to obtain by the end of
+2015 and beginning of the year of 2016.</p>
+<p>
+
+</div>
+
+<table align="left">
+<table style="border: solid">
+
+<tr>
+
+<td>
+Information Technology
+</td>
+<td>Major: Programming and Development</td>
+</tr>
+<tr>
+<td>Goals for 2015: To succeed through the core classes I have 
+scheduled for this fall such as Interactive Internet Programming, Android Mobile Development, 
+System Analysis and Design, and Business Communications.</td>
+</tr>
+<tr>
+<td>Goals to Graduate with an Associate's Degree in 2016</td>
+<td>Further education by the summer of 2016. Desire to study towards her bachelors
+in IT</td>
+</tr>
+</table>
+
+
+<h3>Long Term Goals</h3>
+<p>
+As a young 21 year old developer, a long term goal would be to build a start up or perhaps build mobile
+applications as well as online for the whole world to see. A long term goal she has in mind is to develop
+certain applications that will help tutor younger kids with math, science, reading, etc. She hopes to build an
+interactive app that will also include games that insist on learning how to read, write, and spell.
+While showing tutorials for others who many possibly have a career in this field,
+being able to come up with different ways or strategies on how to learn the fundamentals
+of technology is Ebony's strongest desire.
+</p>
+
+<div class="standard-paragraph">Go to TTL Systems.com<a href="http://www.ttlsystems.com/#!meet-the-team/cl31">TTL Systems.com</a> Visit the site and learn more about the company!!</div>
+			<div class="standard-paragraph">Scroll down to the bottom of the team page and feel free to view more info about me.</div>
+
+<h3>Interesting things?</h3>
+<ul>
+<li>Laughing</li>
+<li>Happy</li>
+<li>Enjoy's life</li>
+<li>Eating junkfood</li>
+<li>Listening to music!</li>
+<li>Being a proud aunt</li>
+<li>Mobile App Games</li>
+<li>Chocolate Cake!</p>
+</ul>
+
+
+
+
+<p title="Website Post">
+Note! EBMInc. is a project I hope to launch in the future. The website is now under construction. It will not be posted until the year of 2018 to 2020.
+</p>
+
+<footer>
+Copyright © EBMInc.Com
+</footer>
+
+
+</body>
+</html>
